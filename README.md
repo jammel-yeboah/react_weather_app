@@ -18,6 +18,7 @@ Feel free to explore the code and contribute to the project!
 
 1. Run the app using `npm start`.
 2. Open your browser and navigate to `http://localhost:3000`.
+3. Add API keys for `REACT_APP_OPEN_WEATHER_API_KEY` and `REACT_APP_GEONAMES_USERNAME` in your `.env` file
 
 ## License
 
